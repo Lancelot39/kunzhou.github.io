@@ -1,20 +1,27 @@
-## Kun Zhou
+# Kun Zhou
 
 PHD candidate
+
 School of Information, Renmin University of China
 
 Email: francis_kun_zhou@163.com
 
-### Bio
-Kun Zhou is now a PHD candidate in School of Information, Renmin University of China. His research interests include self-supervised learning and natural language processing, particularly in conversational recommendation system, representation learning, dialog system and their applications in real-world scenarios.
+## Bio
+Kun Zhou is now a PHD candidate in School of Information, Renmin University of China. His research interests include machine learning and natural language processing, particularly in conversational recommendation system, sequential recommendation, dialog system and their applications in real-world scenarios.
 
-### Publications
+## Publications
 
 #### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
 Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
 
 #### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020 Research Track long paper)
-Kun Zhou*, Hui Wang*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (*equal contribution)
+Kun Zhou\*, Hui Wang\*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (\*equal contribution)
+
+#### Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network (CIKM2020 Research Track long paper)
+Shuqing Bian, Xu Chen, Wayne Xin Zhao, Kun Zhou, Yupeng Hou, Yang Song, Tao Zhang and Ji-Rong Wen
+
+#### Multi-modal Knowledge Graphs for Recommender Systems (CIKM2020 Research Track long paper)
+Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang and Zhongyuan Wang and Kai Zheng
 
 #### Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion (KDD2020 Research Track)
 Kun Zhou, Wayne Xin Zhao, Shuqing Bian, Yuanhang Zhou, Ji-Rong Wen and Jingsong Yu
