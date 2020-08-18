@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Kun Zhou
 
-You can use the [editor on GitHub](https://github.com/Lancelot39/kunzhou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PHD candidate
+School of Information, Renmin University of China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: francis_kun_zhou@163.com
 
-### Markdown
+### Bio
+Kun Zhou is now a PHD candidate in School of Information, Renmin University of China. His research interests include self-supervised learning and natural language processing, particularly in conversational recommendation system, representation learning, dialog system and their applications in real-world scenarios.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+#### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
+Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
 
-# Header 1
-## Header 2
-### Header 3
+#### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020 Research Track long paper)
+Kun Zhou*, Hui Wang*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (*equal contribution)
 
-- Bulleted
-- List
+#### Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion (KDD2020 Research Track)
+Kun Zhou, Wayne Xin Zhao, Shuqing Bian, Yuanhang Zhou, Ji-Rong Wen and Jingsong Yu
 
-1. Numbered
-2. List
+#### Improving Multi-Turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting (PAKDD2020)
+Kun Zhou, Wayne Xin Zhao, Yutao Zhu, Ji-Rong Wen and Jingsong Yu
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lancelot39/kunzhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Unsupervised Context Rewriting for Open Domain Conversation (EMNLP-IJCNLP2019 long paper)
+Kun Zhou, Kai Zhang, Yu Wu, Shujie Liu and Jingsong Yu
