@@ -1,13 +1,10 @@
 # Kun Zhou
 
-PHD candidate
-
-School of Information, Renmin University of China
+I am a PHD student at School of Information, Renmin University of China, under the supervision of Wayne Xin Zhao and Ji-Rong Wen.
+My research interests are in natural language processing (NLP) and machine learning (ML), with focuses on conversational recommendation system, dialog system and their applications in real-world scenarios.
+I obtained my master degree from Peking University, and bachelor from Hohai University.
 
 Email: francis_kun_zhou@163.com
-
-## Bio
-Kun Zhou is now a PHD candidate in School of Information, Renmin University of China. His research interests include machine learning and natural language processing, particularly in conversational recommendation system, sequential recommendation, dialog system and their applications in real-world scenarios.
 
 ## News
 I have submited two long papers to EMNLP2020!!!
@@ -38,3 +35,16 @@ Kun Zhou, Wayne Xin Zhao, Yutao Zhu, Ji-Rong Wen and Jingsong Yu
 
 #### Unsupervised Context Rewriting for Open Domain Conversation (EMNLP-IJCNLP2019 long paper)
 Kun Zhou, Kai Zhang, Yu Wu, Shujie Liu and Jingsong Yu
+
+## Experiences
+#### 2019.12 - now, Research Intern, NLP center, Meituan Dianping.
+
+Mentor: Sirui Wang, Fuzheng Zhang
+
+I public four papers in CIKM2020 during my internship, thanks for my friends in Meituan.
+
+#### 2018.8 - 2019.6, Research Intern, XiaoIce, Microsoft Asia.
+
+Mentor: Kai Zhang 
+
+I public my first top-conference paper during my internship, thanks for everyone in XiaoIce.
