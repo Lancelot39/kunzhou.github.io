@@ -9,6 +9,13 @@ Email: francis_kun_zhou@163.com
 ## Bio
 Kun Zhou is now a PHD candidate in School of Information, Renmin University of China. His research interests include machine learning and natural language processing, particularly in conversational recommendation system, sequential recommendation, dialog system and their applications in real-world scenarios.
 
+## News
+I have submited two long papers to EMNLP2020!!!
+
+I have submited two long papers to Coling2020!!!
+
+My four papers are accepted by CIKM2020!!! Thanks for my co-authors' help!
+
 ## Publications
 
 #### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
