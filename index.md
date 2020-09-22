@@ -1,14 +1,12 @@
 # Kun Zhou
 
 I am a PHD student at School of Information, Renmin University of China, under the supervision of Wayne Xin Zhao and Ji-Rong Wen.
-My research interests are in natural language processing (NLP) and machine learning (ML), with focuses on conversational recommendation system, dialog system and their applications in real-world scenarios.
+My research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on representation learning for recommendation system, dialog system and their applications in real-world scenarios.
 I obtained my master degree from Peking University, and bachelor from Hohai University.
 
 Email: francis_kun_zhou@163.com
 
 ## News
-I have submited two long papers to EMNLP2020!!!
-
 I have submited two long papers to Coling2020!!!
 
 My four papers are accepted by CIKM2020!!! Thanks for my co-authors' help!
