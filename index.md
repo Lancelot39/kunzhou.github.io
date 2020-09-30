@@ -7,11 +7,19 @@ I obtained my master degree from Peking University, and bachelor from Hohai Univ
 Email: francis_kun_zhou@163.com
 
 ## News
-I have submited two long papers to Coling2020!!!
+I have submited two long papers to AAAI2021!!!
+
+My two long papers are accepted by Coling2020!!! Thanks for my co-authors' help!
 
 My four papers are accepted by CIKM2020!!! Thanks for my co-authors' help!
 
 ## Publications
+
+#### Towards Topic-Guided Conversational Recommender System (Coling2020 long paper)
+Kun Zhou\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
+
+#### Learn with Noisy Data via Unsupervised Loss Correction for Weakly Supervised Reading Comprehension (Coling2020 long paper)
+Xuemiao Zhang, Kun Zhou, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Junfei Liu
 
 #### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
 Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
