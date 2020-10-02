@@ -7,8 +7,6 @@ I obtained my master degree from Peking University, and bachelor from Hohai Univ
 Email: francis_kun_zhou@163.com
 
 ## News
-I have submited two long papers to AAAI2021!!!
-
 My two long papers are accepted by Coling2020!!! Thanks for my co-authors' help!
 
 My four papers are accepted by CIKM2020!!! Thanks for my co-authors' help!
