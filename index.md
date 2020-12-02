@@ -7,11 +7,16 @@ I obtained my master degree from Peking University, and bachelor from Hohai Univ
 Email: francis_kun_zhou@163.com
 
 ## News
+
+My one long paper is accepted by AAAI2021!!! Thanks for my co-authors' help!
+
 My two long papers are accepted by Coling2020!!! Thanks for my co-authors' help!
 
-My four papers are accepted by CIKM2020!!! Thanks for my co-authors' help!
 
 ## Publications
+
+#### Neural Sentence Ordering Based on Constraint Graphs (AAAI2021)
+Yutao Zhu\*, Kun Zhou\*, Jian-Yun Nie, Shengchao Liu, Zhicheng Dou (\*equal contribution)
 
 #### Towards Topic-Guided Conversational Recommender System (Coling2020 long paper)
 Kun Zhou\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
