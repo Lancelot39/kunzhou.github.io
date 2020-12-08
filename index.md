@@ -16,7 +16,7 @@ My two long papers are accepted by Coling2020!!! Thanks for my co-authors' help!
 ## Publications
 
 #### Neural Sentence Ordering Based on Constraint Graphs (AAAI2021)
-Yutao Zhu\*, Kun Zhou\*, Jian-Yun Nie, Shengchao Liu, Zhicheng Dou (\*equal contribution)
+Yutao Zhu, Kun Zhou, Jian-Yun Nie, Shengchao Liu, Zhicheng Dou
 
 #### Towards Topic-Guided Conversational Recommender System (Coling2020 long paper)
 Kun Zhou\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
