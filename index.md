@@ -1,19 +1,24 @@
 # Kun Zhou
 
 I am a PHD student at School of Information, Renmin University of China, under the supervision of Wayne Xin Zhao and Ji-Rong Wen.
-My research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on representation learning for recommendation system, dialog system and their applications in real-world scenarios.
+My research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on conversational recommender system (CRS), representation learning and their applications in real-world scenarios.
 I obtained my master degree from Peking University, and bachelor from Hohai University.
 
 Email: francis_kun_zhou@163.com
 
 ## News
 
-My one long paper is accepted by AAAI2021!!! Thanks for my co-authors' help!
+Our one long paper is accepted by WWW2021!!! Thanks for my co-authors' help!
 
-My two long papers are accepted by Coling2020!!! Thanks for my co-authors' help!
-
+Our one long paper is accepted by ECIR2021!!! Thanks for my co-authors' help!
 
 ## Publications
+
+#### A Novel Macro-Micro Fusion Network for User Representation Learning on Mobile Apps (WWW2021 Research Track long paper)
+Shuqing Bian, Xin Zhao, Kun Zhou, Xu Chen, Jing Cai, Yancheng He, Xingji Luo and Ji-Rong Wen
+
+#### Content Selection Network for Document-grounded Retrieval-based Chatbots	(ECIR2021 long paper)
+Yutao Zhu, Jian-Yun Nie, Kun Zhou, Pan Du and Zhicheng Dou
 
 #### Neural Sentence Ordering Based on Constraint Graphs (AAAI2021)
 Yutao Zhu, Kun Zhou, Jian-Yun Nie, Shengchao Liu, Zhicheng Dou
