@@ -1,8 +1,9 @@
 # Kun Zhou
 
-I am a PHD student at School of Information, Renmin University of China, under the supervision of Wayne Xin Zhao and Ji-Rong Wen.
-My research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on conversational recommender system (CRS), representation learning and their applications in real-world scenarios.
-I obtained my master degree from Peking University, and bachelor from Hohai University.
+## Bio
+Kun Zhou is a PHD student at School of Information, Renmin University of China, under the supervision of Wayne Xin Zhao and Ji-Rong Wen.
+His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on conversational recommender system (CRS), representation learning and their applications in real-world scenarios.
+He obtained the master degree from Peking University, and bachelor from Hohai University.
 
 Email: francis_kun_zhou@163.com
 
