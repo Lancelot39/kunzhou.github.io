@@ -16,7 +16,7 @@ Our one paper CRSLab is accepted by the demo track of ACL2021!!! Thanks for all 
 ## Publications
 
 #### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track paper)
-Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen
+Kun Zhou\*, Xiaolei Wang\*, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen (\*equal contribution)
 
 #### Proactive Retrieval-based Chatbots based on Relevant Knowledge and Goals (SIGIR2021 short paper)
 Yutao Zhu, Jian-Yun Nie, Kun Zhou, Pan Du, Hao Jiang and Zhicheng Dou
