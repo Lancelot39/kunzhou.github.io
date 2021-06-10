@@ -9,11 +9,17 @@ Email: francis_kun_zhou@163.com
 
 ## News
 
-Our one long paper is accepted by WWW2021!!! Thanks for my co-authors' help!
+My two long papers are submitted to EMNLP2021. Wish me good luck （；´д｀）ゞ
 
-Our one long paper is accepted by ECIR2021!!! Thanks for my co-authors' help!
+Our one paper CRSLab is accepted by the demo track of ACL2021!!! Thanks for all my comrades in AIBOX!
 
 ## Publications
+
+#### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track paper)
+Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen
+
+#### Proactive Retrieval-based Chatbots based on Relevant Knowledge and Goals (SIGIR2021 short paper)
+Yutao Zhu, Jian-Yun Nie, Kun Zhou, Pan Du, Hao Jiang and Zhicheng Dou
 
 #### A Novel Macro-Micro Fusion Network for User Representation Learning on Mobile Apps (WWW2021 Research Track long paper)
 Shuqing Bian, Xin Zhao, Kun Zhou, Xu Chen, Jing Cai, Yancheng He, Xingji Luo and Ji-Rong Wen
@@ -52,7 +58,7 @@ Kun Zhou, Wayne Xin Zhao, Yutao Zhu, Ji-Rong Wen and Jingsong Yu
 Kun Zhou, Kai Zhang, Yu Wu, Shujie Liu and Jingsong Yu
 
 ## Experiences
-#### 2019.12 - now, Research Intern, NLP center, Meituan Dianping.
+#### 2019.12 - 2021.5, Research Intern, NLP center, Meituan Dianping.
 
 Mentor: Sirui Wang, Fuzheng Zhang
 
