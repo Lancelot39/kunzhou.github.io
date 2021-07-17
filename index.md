@@ -41,13 +41,11 @@ Yutao Zhu, ***Kun Zhou***, Jian-Yun Nie, Shengchao Liu, Zhicheng Dou
 
 ### 2020
 
-#### Towards Topic-Guided Conversational Recommender System
+#### Towards Topic-Guided Conversational Recommender System (COLING2020)
 ***Kun Zhou***\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
-COLING2020
 
-#### Learn with Noisy Data via Unsupervised Loss Correction for Weakly Supervised Reading Comprehension
+#### Learn with Noisy Data via Unsupervised Loss Correction for Weakly Supervised Reading Comprehension (COLING2020)
 Xuemiao Zhang, ***Kun Zhou***, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Junfei Liu
-COLING2020
 
 #### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
 ***Kun Zhou***, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
